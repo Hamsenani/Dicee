@@ -1,0 +1,49 @@
+body{
+    background-color: #393E46;
+}
+
+.refresh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    margin: 0;
+    font-size: 4rem;
+    color:#4ECCA3;
+    font-family: 'Lobster', cursive;
+    text-shadow:  5px 0 #232931;;
+}
+
+h3{
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    font-size: 1rem;
+    color: whitesmoke;
+    font-family: 'Indie Flower', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.diceThrow{
+    margin: 0 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+img{
+    height: 10rem;
+}
+
+.hidden{
+    display : hide;
+}
